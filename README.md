@@ -16,12 +16,13 @@ A US bike-sharing provider BoomBikes has recently suffered considerable dips in 
 
 ## Conclusions
 By analysing the dataset, The conclusion that company should focus on the following variables to manage the demand:
-  
+
 - Season
-- months( July, September)
 - Year
-- Sunday
+- temp
 - weathersit
+- holiday
+- month - Sept
 
 
 
